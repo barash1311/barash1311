@@ -6,8 +6,12 @@
     <a href="https://www.linkedin.com/in/barash-sharma-321705153/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
     </a>
+    <a href="https://www.youtube.com/channel/UCrHETrTYgbsTLpaoC2hH54g">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+    </a>
+    <a href="https://twitter.com/BarashSharma">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    </a>
   </div>
   
   ###
