@@ -39,13 +39,11 @@
     <img width="12" />
     <img src="https://i.redd.it/31b2ii8hchi31.jpg" height="40" alt="rust logo"  />
     <img width="12" />
-    <img src="https://banner2.cleanpng.com/20181128/cbr/kisspng-python-programming-basics-for-absolute-beginners-michigan-python-user-group-5-jul-2-18-5bfef921c53528.7857216715434365778078.jpg" height="40" alt="ruby logo"  />
     <img width="12" />
     <img src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" height="40" alt="dot-net logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
     <img width="12" />
-    
     <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" height="40" alt="circleci logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
