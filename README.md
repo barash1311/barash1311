@@ -17,7 +17,7 @@
 
 <h3 align="left">👩‍💻 About Me</h3>
 
-<p align="left">I'm Barash Sharma from Jammu and Kashmir, India.<br><br>- 🔭 I’m a Computer Science Engineering Student ...<br>- 📚 I'm currently learning Networking, Data Structures, and Algorithms.<br>- ⚡ In my free time, I do LeetCode problems.</p>
+<p align="left">I'm Barash Sharma from Jammu and Kashmir, India.<br><br>- 🔭 I’m a Computer Science Engineering Student <br>- 📚 I'm currently learning Networking, Data Structures, and Algorithms.<br>- ⚡ In my free time, I do LeetCode problems.</p>
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
@@ -32,11 +32,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
+<br clear="both">
 
-<a href="https://github.com/username/SnakeGame">
-    <img src="https://img.shields.io/static/v1?message=Snake%20Game&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Snake Game logo" />
-  </a>
+<img src="https://raw.githubusercontent.com/barash1311/barash1311/output/snake.svg" alt="Snake animation" />
+
+###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=barash1311.barash1311&"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/barash1311/barash1311/output/snake.svg" alt="Snake animation" />
+
+###
