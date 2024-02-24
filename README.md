@@ -34,7 +34,7 @@
 </div>
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/barash1311/barash1311/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/barash1311/barash1311snake.yml" alt="Snake animation" />
 
 ###
 
@@ -44,6 +44,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/barash1311/barash1311/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/barash1311/barash1311/snake.yml" alt="Snake animation" />
 
 ###
