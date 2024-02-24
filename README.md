@@ -37,8 +37,6 @@
   <div align="left">
     <img src="https://i.redd.it/31b2ii8hchi31.jpg" height="40" alt="rust logo"  />
     <img width="12" />
-    <img src="[https://images.app.goo.gl/49spd7bs5FJZi2Y58](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png)" height="40" alt="go logo"  />
-    <img width="12" />
     <img src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" height="40" alt="dot-net logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
