@@ -35,8 +35,6 @@
   ###
   
   <div align="left">
-    <img src="https://images.app.goo.gl/49spd7bs5FJZi2Y58" height="40" alt="go logo"  />
-    <img width="12" />
     <img src="https://i.redd.it/31b2ii8hchi31.jpg" height="40" alt="rust logo"  />
     <img width="12" />
     <img width="12" />
