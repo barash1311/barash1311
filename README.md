@@ -36,7 +36,7 @@
 <a href="https://github.com/username/SnakeGame">
     <img src="https://img.shields.io/static/v1?message=Snake%20Game&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Snake Game logo" />
   </a>
-</div>
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=barash1311.barash1311&"  />
 </div>
