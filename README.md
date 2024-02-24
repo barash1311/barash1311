@@ -13,7 +13,7 @@
   ###
   
   <div align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+    <img src="https://visitor-badge.laobi.icu/badge?page&"  />
   </div>
   
   ###
@@ -26,7 +26,7 @@
   
   ###
   
-  <p align="left">I'm Barash sharma from Jammu and kashmir,India<br><br>- 🔭 I’m a computer science engineering studeny ...<br>- 📚 I'm currently learning Networking,Data Structures and Algorithm<br>- ⚡ In my free time I do leetcode problems</p>
+  <p align="left">I'm Barash sharma from Jammu and kashmir,India<br><br>- 🔭 I’m a Computer Science Engineering Student ...<br>- 📚 I'm currently learning Networking,Data Structures and Algorithm<br>- ⚡ In my free time I do leetcode problems</p>
   
   ###
   
@@ -37,6 +37,7 @@
   <div align="left">
     <img src="https://i.redd.it/31b2ii8hchi31.jpg" height="40" alt="rust logo"  />
     <img width="12" />
+    <img src="https://images.app.goo.gl/49spd7bs5FJZi2Y58" height="40" alt="go logo"  />
     <img width="12" />
     <img src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" height="40" alt="dot-net logo"  />
     <img width="12" />
