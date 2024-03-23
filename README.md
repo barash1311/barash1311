@@ -21,9 +21,40 @@
       <li>Proficient in object-oriented concepts, SQL, computer architecture, microprocessors, mathematics, and physics</li>
       <li>Recognized for software development achievements</li>
       <li>Committed to driving innovation and making a positive impact</li>
+      <li>
+        Collaboration Tools:
+        <ul>
+          <li>Google Docs</li>
+          <li>Microsoft Office Online</li>
+        </ul>
+      </li>
+      <li>
+        Technical Support and Troubleshooting:
+        <ul>
+          <li>Remote Access Tools:
+            <ul>
+              <li>PuTTY (for SSH)</li>
+              <li>Remote desktop access tools</li>
+            </ul>
+          </li>
+          <li>Integrated Development Environments (IDEs):
+            <ul>
+              <li>Visual Studio Code</li>
+              <li>PyCharm</li>
+            </ul>
+          </li>
+          <li>Version Control Systems (VCS):
+            <ul>
+              <li>Git</li>
+              <li>GitHub</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
     </ul>
   </li>
 </ul>
+
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
