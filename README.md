@@ -10,16 +10,11 @@
   <strong>Skills:</strong> Full-stack web development using Python, Java, C++, and C. Passionate about robotics and video editing. Proficient in object-oriented concepts, SQL, computer architecture, microprocessors, mathematics, and physics. Recognized for software development achievements. Committed to driving innovation and making a positive impact.
 </p>
 
-<h3 align="center">🛠 Languages and Tools</h3>
-
-<h3 align="left">🛠 Languages and Tools</h3>
-
-<h3 align="left">🛠 Languages and Tools</h3>
-
 <h3 align="left">🛠 Languages and Tools</h3>
 
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <!-- Group 1 -->
     <div style="margin: 10px;">
       <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript icon" />
     </div>
@@ -32,6 +27,7 @@
     <div style="margin: 10px;">
       <img src="https://skillicons.dev/icons?i=wasm" height="50" alt="WebAssembly icon" />
     </div>
+    <!-- Group 2 -->
     <div style="margin: 10px;">
       <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python icon" />
     </div>
@@ -44,6 +40,7 @@
     <div style="margin: 10px;">
       <img src="https://skillicons.dev/icons?i=c" height="50" alt="C icon" />
     </div>
+    <!-- Group 3 -->
     <div style="margin: 10px;">
       <img src="https://skillicons.dev/icons?i=react" height="50" alt="React icon" />
     </div>
@@ -56,12 +53,12 @@
     <div style="margin: 10px;">
       <img src="https://skillicons.dev/icons?i=express" height="50" alt="Express.js icon" />
     </div>
+    <!-- Group 4 -->
     <div style="margin: 10px;">
       <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL icon" />
     </div>
   </div>
 </div>
-
 
 
 
