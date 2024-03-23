@@ -5,7 +5,8 @@
 <h3 align="center">👩‍💻 About Me</h3>
 
 <p align="center">
-  <img src="[https://i.pinimg.com/736x/d8/24/82/d8248259f4a63e060760bd72b39709ab.jpg](https://cusat.ac.in/images/logo_m1.png)" />
+  <img src="https://cusat.ac.in/images/logo_m1.png" />
+
 
 
   I'm Barash Sharma from Jammu and Kashmir, India. Currently, I'm pursuing my Bachelor's in Computer Science at CUSAT.<br><br>
