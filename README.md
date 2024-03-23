@@ -22,15 +22,27 @@
 <h3 align="left">🛠 Languages and Tools</h3>
 
 <div align="left">
-  <img src="https://i.redd.it/31b2ii8hchi31.jpg" height="40" alt="rust logo"  />
+  <img src="https://i.imgur.com/xgSkcvo.png" height="40" alt="Python logo"  />
   <img width="12" />
-  <img src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" height="40" alt="dot-net logo"  />
+  <img src="https://i.imgur.com/Sfi3CpY.png" height="40" alt="Java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img src="https://i.imgur.com/xgSkcvo.png" height="40" alt="C++ logo"  />
   <img width="12" />
-  <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" height="40" alt="circleci logo"  />
+  <img src="https://i.imgur.com/Sfi3CpY.png" height="40" alt="C logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img src="https://i.imgur.com/QItB7pg.png" height="40" alt="Robotics logo"  />
+  <img width="12" />
+  <img src="https://i.imgur.com/3euD6EK.png" height="40" alt="Video Editing logo"  />
+  <img width="12" />
+  <img src="https://i.imgur.com/69VNYhm.png" height="40" alt="SQL logo"  />
+  <img width="12" />
+  <img src="https://i.imgur.com/yE2FYA2.png" height="40" alt="Computer Architecture logo"  />
+  <img width="12" />
+  <img src="https://i.imgur.com/ei21Mkf.png" height="40" alt="Microprocessors logo"  />
+  <img width="12" />
+  <img src="https://i.imgur.com/2JdLWTe.png" height="40" alt="Mathematics logo"  />
+  <img width="12" />
+  <img src="https://i.imgur.com/UVzyJWN.png" height="40" alt="Physics logo"  />
 </div>
 <br clear="both">
 
