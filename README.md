@@ -5,7 +5,8 @@
 <h3 align="center">👩‍💻 About Me</h3>
 
 <p align="center">
-<img src="https://cusat.ac.in/images/logo_m1.png" alt="CUSAT Logo" style="max-width: 100%; height: auto;" />
+<img src="https://cusat.ac.in/images/logo_m1.png" alt="CUSAT Logo" />
+
 <br>
 
 
