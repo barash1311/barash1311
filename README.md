@@ -10,7 +10,7 @@
   <strong>Skills:</strong> Full-stack web development using Python, Java, C++, and C. Passionate about robotics and video editing. Proficient in object-oriented concepts, SQL, computer architecture, microprocessors, mathematics, and physics. Recognized for software development achievements. Committed to driving innovation and making a positive impact.
 </p>
 
-<h3 align="left">🛠 Languages and Tools</h3>
+  <h3>🛠 Languages and Tools</h3>
 
   <div class="matrix-container">
     <!-- First row -->
@@ -28,8 +28,6 @@
         <img src="https://skillicons.dev/icons?i=wasm" height="50" alt="WebAssembly icon" />
       </div>
     </div>
-
-    
     <!-- Second row -->
     <div class="icon-row">
       <div class="icon-item">
@@ -45,8 +43,6 @@
         <img src="https://skillicons.dev/icons?i=c" height="50" alt="C icon" />
       </div>
     </div>
-
-    
     <!-- Third row -->
     <div class="icon-row">
       <div class="icon-item">
@@ -62,8 +58,6 @@
         <img src="https://skillicons.dev/icons?i=express" height="50" alt="Express.js icon" />
       </div>
     </div>
-
-    
     <!-- Fourth row -->
     <div class="icon-row">
       <div class="icon-item">
