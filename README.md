@@ -15,37 +15,32 @@
 <div align="center">
   <!-- First row -->
   <div class="icon-row">
-    [![JavaScript icon](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-    [![HTML icon](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-    [![CSS icon](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-    [![WebAssembly icon](https://skillicons.dev/icons?i=wasm)](https://skillicons.dev)
+    ![JavaScript icon](https://skillicons.dev/icons?i=js)
+    ![HTML icon](https://skillicons.dev/icons?i=html)
+    ![CSS icon](https://skillicons.dev/icons?i=css)
+    ![WebAssembly icon](https://skillicons.dev/icons?i=wasm)
   </div>
 
   <!-- Second row -->
   <div class="icon-row">
-    [![Python icon](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-    [![Java icon](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-    [![C++ icon](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
-    [![C icon](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+    ![Python icon](https://skillicons.dev/icons?i=python)
+    ![Java icon](https://skillicons.dev/icons?i=java)
+    ![C++ icon](https://skillicons.dev/icons?i=cpp)
+    ![C icon](https://skillicons.dev/icons?i=c)
   </div>
 
   <!-- Third row -->
   <div class="icon-row">
-    [![React icon](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-    [![Node.js icon](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
-    [![MongoDB icon](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
-    [![Express.js icon](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
+    ![React icon](https://skillicons.dev/icons?i=react)
+    ![Node.js icon](https://skillicons.dev/icons?i=nodejs)
+    ![MongoDB icon](https://skillicons.dev/icons?i=mongodb)
+    ![Express.js icon](https://skillicons.dev/icons?i=express)
   </div>
 
   <!-- Fourth row -->
   <div class="icon-row">
-    [![MySQL icon](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+    ![MySQL icon](https://skillicons.dev/icons?i=mysql)
     <!-- Add more icons here -->
-  </div>
-
-  <!-- Fifth row with icons from the second link -->
-  <div class="icon-row">
-    [![Java icon](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
   </div>
 </div>
 
