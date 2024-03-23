@@ -15,34 +15,35 @@
 <div align="center">
   <!-- First row -->
   <div class="icon-row">
-    ![JavaScript icon](https://skillicons.dev/icons?i=js)
-    ![HTML icon](https://skillicons.dev/icons?i=html)
-    ![CSS icon](https://skillicons.dev/icons?i=css)
-    ![WebAssembly icon](https://skillicons.dev/icons?i=wasm)
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript icon" />
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML icon" />
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS icon" />
+    <img src="https://skillicons.dev/icons?i=wasm" alt="WebAssembly icon" />
   </div>
 
   <!-- Second row -->
   <div class="icon-row">
-    ![Python icon](https://skillicons.dev/icons?i=python)
-    ![Java icon](https://skillicons.dev/icons?i=java)
-    ![C++ icon](https://skillicons.dev/icons?i=cpp)
-    ![C icon](https://skillicons.dev/icons?i=c)
+    <img src="https://skillicons.dev/icons?i=python" alt="Python icon" />
+    <img src="https://skillicons.dev/icons?i=java" alt="Java icon" />
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++ icon" />
+    <img src="https://skillicons.dev/icons?i=c" alt="C icon" />
   </div>
 
   <!-- Third row -->
   <div class="icon-row">
-    ![React icon](https://skillicons.dev/icons?i=react)
-    ![Node.js icon](https://skillicons.dev/icons?i=nodejs)
-    ![MongoDB icon](https://skillicons.dev/icons?i=mongodb)
-    ![Express.js icon](https://skillicons.dev/icons?i=express)
+    <img src="https://skillicons.dev/icons?i=react" alt="React icon" />
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js icon" />
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB icon" />
+    <img src="https://skillicons.dev/icons?i=express" alt="Express.js icon" />
   </div>
 
   <!-- Fourth row -->
   <div class="icon-row">
-    ![MySQL icon](https://skillicons.dev/icons?i=mysql)
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL icon" />
     <!-- Add more icons here -->
   </div>
 </div>
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=barash1311.barash1311&" />
