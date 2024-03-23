@@ -27,6 +27,9 @@
     <div style="margin: 10px;">
       <img src="https://skillicons.dev/icons?i=wasm" height="50" alt="WebAssembly icon" />
     </div>
+  </div>
+  
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <!-- Group 2 -->
     <div style="margin: 10px;">
       <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python icon" />
@@ -40,6 +43,9 @@
     <div style="margin: 10px;">
       <img src="https://skillicons.dev/icons?i=c" height="50" alt="C icon" />
     </div>
+  </div>
+
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <!-- Group 3 -->
     <div style="margin: 10px;">
       <img src="https://skillicons.dev/icons?i=react" height="50" alt="React icon" />
@@ -53,13 +59,15 @@
     <div style="margin: 10px;">
       <img src="https://skillicons.dev/icons?i=express" height="50" alt="Express.js icon" />
     </div>
+  </div>
+
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <!-- Group 4 -->
     <div style="margin: 10px;">
       <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL icon" />
     </div>
   </div>
 </div>
-
 
 
 <br clear="both">
