@@ -5,7 +5,7 @@
 <h3 align="center">👩‍💻 About Me</h3>
 
 <p align="center">
-<img src="[https://i.pinimg.com/736x/d8/24/82/d8248259f4a63e060760bd72b39709ab.jpg](https://s3bucket-incpro.s3.eu-north-1.amazonaws.com/2022-02-24T19%3A20%3A18.214Z-logo_m1.png)" />
+<img src="https://s3bucket-incpro.s3.eu-north-1.amazonaws.com/2022-02-24T19%3A20%3A18.214Z-logo_m1.png" />
 
 <br>
 
