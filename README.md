@@ -16,7 +16,9 @@
   <li>
     <strong>Skills:</strong>
     <ul>
-      <li>Full-stack web development using Python, Java, C++, and C</li>
+      <li>Full-stack web development</li>
+      <li>Data Structures and Algorithm</li>
+      <li>Programming Langauges like Python, Java, C++, and C</li>
       <li>Passionate about robotics and video editing</li>
       <li>Proficient in object-oriented concepts, SQL, computer architecture, microprocessors, mathematics, and physics</li>
       <li>Recognized for software development achievements</li>
