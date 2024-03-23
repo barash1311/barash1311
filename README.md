@@ -13,50 +13,51 @@
 <h3 align="left">🛠 Languages and Tools</h3>
 
 <div align="center">
-  <div>
-    <!-- Group 1 -->
-    <div style="display: inline-block; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript icon" />
-    </div>
-    <div style="display: inline-block; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML icon" />
-    </div>
-    <div style="display: inline-block; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS icon" />
-    </div>
-    <div style="display: inline-block; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=wasm" height="50" alt="WebAssembly icon" />
-    </div>
-    <!-- Group 2 -->
-    <div style="display: inline-block; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python icon" />
-    </div>
-    <div style="display: inline-block; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java icon" />
-    </div>
-    <div style="display: inline-block; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++ icon" />
-    </div>
-    <div style="display: inline-block; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=c" height="50" alt="C icon" />
-    </div>
-    <!-- Group 3 -->
-    <div style="display: inline-block; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=react" height="50" alt="React icon" />
-    </div>
-    <div style="display: inline-block; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js icon" />
-    </div>
-    <div style="display: inline-block; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB icon" />
-    </div>
-    <div style="display: inline-block; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=express" height="50" alt="Express.js icon" />
-    </div>
-    <!-- Group 4 -->
-    <div style="display: inline-block; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL icon" />
-    </div>
+  <!-- Group 1 -->
+  <div style="display: inline-block; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript icon" />
+  </div>
+  <div style="display: inline-block; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML icon" />
+  </div>
+  <div style="display: inline-block; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS icon" />
+  </div>
+  <div style="display: inline-block; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=wasm" height="50" alt="WebAssembly icon" />
+  </div>
+
+  <!-- Group 2 -->
+  <div style="display: inline-block; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python icon" />
+  </div>
+  <div style="display: inline-block; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java icon" />
+  </div>
+  <div style="display: inline-block; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++ icon" />
+  </div>
+  <div style="display: inline-block; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=c" height="50" alt="C icon" />
+  </div>
+
+  <!-- Group 3 -->
+  <div style="display: inline-block; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=react" height="50" alt="React icon" />
+  </div>
+  <div style="display: inline-block; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js icon" />
+  </div>
+  <div style="display: inline-block; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB icon" />
+  </div>
+  <div style="display: inline-block; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=express" height="50" alt="Express.js icon" />
+  </div>
+
+  <!-- Group 4 -->
+  <div style="display: inline-block; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL icon" />
   </div>
 </div>
 
