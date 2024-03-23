@@ -28,6 +28,8 @@
         <img src="https://skillicons.dev/icons?i=wasm" height="50" alt="WebAssembly icon" />
       </div>
     </div>
+
+    
     <!-- Second row -->
     <div class="icon-row">
       <div class="icon-item">
@@ -43,6 +45,8 @@
         <img src="https://skillicons.dev/icons?i=c" height="50" alt="C icon" />
       </div>
     </div>
+
+    
     <!-- Third row -->
     <div class="icon-row">
       <div class="icon-item">
@@ -58,6 +62,8 @@
         <img src="https://skillicons.dev/icons?i=express" height="50" alt="Express.js icon" />
       </div>
     </div>
+
+    
     <!-- Fourth row -->
     <div class="icon-row">
       <div class="icon-item">
