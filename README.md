@@ -15,34 +15,61 @@
 
 <h1 align="center">hey there 👋</h1>
 
-<h3 align="left">👩‍💻 About Me</h3>
+<h3 align="center">👩‍💻 About Me</h3>
 
-<p align="left">I'm a Computer Science student at CUSAT, with a focus on full-stack web development using Python, Java, C++, and C. Passionate about robotics and video editing. Experienced mentor at Atal Tinkering Labs. Proficient in object-oriented concepts, SQL, computer architecture, microprocessors, mathematics, and physics. Recognized for software development achievements. Committed to driving innovation and making a positive impact.</p>
+<div align="center">
+  <p align="center">I'm a Computer Science student at CUSAT, with a focus on full-stack web development using Python, Java, C++, and C. Passionate about robotics and video editing. Experienced mentor at Atal Tinkering Labs. Proficient in object-oriented concepts, SQL, computer architecture, microprocessors, mathematics, and physics. Recognized for software development achievements. Committed to driving innovation and making a positive impact.</p>
+  
+  <br>
 
-<h3 align="left">🛠 Languages and Tools</h3>
+  <div style="display: flex; justify-content: center;">
+    <div style="text-align: center; margin: 0 10px;">
+      <img src="https://i.imgur.com/ABCD123.jpg" height="80" alt="Python logo" /><br>
+      <span>Python</span>
+    </div>
+    <div style="text-align: center; margin: 0 10px;">
+      <img src="https://i.imgur.com/ABCD124.jpg" height="80" alt="Java logo" /><br>
+      <span>Java</span>
+    </div>
+    <div style="text-align: center; margin: 0 10px;">
+      <img src="https://i.imgur.com/ABCD125.jpg" height="80" alt="C++ logo" /><br>
+      <span>C++</span>
+    </div>
+    <div style="text-align: center; margin: 0 10px;">
+      <img src="https://i.imgur.com/ABCD126.jpg" height="80" alt="C logo" /><br>
+      <span>C</span>
+    </div>
+    <div style="text-align: center; margin: 0 10px;">
+      <img src="https://i.imgur.com/ABCD127.jpg" height="80" alt="Robotics logo" /><br>
+      <span>Robotics</span>
+    </div>
+    <div style="text-align: center; margin: 0 10px;">
+      <img src="https://i.imgur.com/ABCD128.jpg" height="80" alt="Video Editing logo" /><br>
+      <span>Video Editing</span>
+    </div>
+    <div style="text-align: center; margin: 0 10px;">
+      <img src="https://i.imgur.com/ABCD129.jpg" height="80" alt="Mentorship logo" /><br>
+      <span>Mentorship</span>
+    </div>
+    <div style="text-align: center; margin: 0 10px;">
+      <img src="https://i.imgur.com/ABCD130.jpg" height="80" alt="Innovation logo" /><br>
+      <span>Innovation</span>
+    </div>
+  </div>
+</div>
 
-<div align="left">
-  <img src="https://i.imgur.com/xgSkcvo.png" height="40" alt="Python logo"  />
+<h3 align="center">🛠 Languages and Tools</h3>
+
+<div align="center">
+  <img src="https://i.redd.it/31b2ii8hchi31.jpg" height="40" alt="rust logo"  />
   <img width="12" />
-  <img src="https://i.imgur.com/Sfi3CpY.png" height="40" alt="Java logo"  />
+  <img src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" height="40" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://i.imgur.com/xgSkcvo.png" height="40" alt="C++ logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://i.imgur.com/Sfi3CpY.png" height="40" alt="C logo"  />
+  <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" height="40" alt="circleci logo"  />
   <img width="12" />
-  <img src="https://i.imgur.com/QItB7pg.png" height="40" alt="Robotics logo"  />
-  <img width="12" />
-  <img src="https://i.imgur.com/3euD6EK.png" height="40" alt="Video Editing logo"  />
-  <img width="12" />
-  <img src="https://i.imgur.com/69VNYhm.png" height="40" alt="SQL logo"  />
-  <img width="12" />
-  <img src="https://i.imgur.com/yE2FYA2.png" height="40" alt="Computer Architecture logo"  />
-  <img width="12" />
-  <img src="https://i.imgur.com/ei21Mkf.png" height="40" alt="Microprocessors logo"  />
-  <img width="12" />
-  <img src="https://i.imgur.com/2JdLWTe.png" height="40" alt="Mathematics logo"  />
-  <img width="12" />
-  <img src="https://i.imgur.com/UVzyJWN.png" height="40" alt="Physics logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
 <br clear="both">
 
