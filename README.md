@@ -12,9 +12,10 @@
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
+<h3 align="left"> Languages and Tools</h3>
+
 <div align="center">
   <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px;">
-    <!-- Group 1 -->
     <div style="margin: auto;">
       <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript icon" />
     </div>
@@ -27,7 +28,6 @@
     <div style="margin: auto;">
       <img src="https://skillicons.dev/icons?i=wasm" height="50" alt="WebAssembly icon" />
     </div>
-    <!-- Group 2 -->
     <div style="margin: auto;">
       <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python icon" />
     </div>
@@ -40,7 +40,6 @@
     <div style="margin: auto;">
       <img src="https://skillicons.dev/icons?i=c" height="50" alt="C icon" />
     </div>
-    <!-- Group 3 -->
     <div style="margin: auto;">
       <img src="https://skillicons.dev/icons?i=react" height="50" alt="React icon" />
     </div>
@@ -53,10 +52,7 @@
     <div style="margin: auto;">
       <img src="https://skillicons.dev/icons?i=express" height="50" alt="Express.js icon" />
     </div>
-    <!-- Group 4 -->
-    <div style="margin: auto;">
-      <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL icon" />
-    </div>
+
   </div>
 </div>
 
