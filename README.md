@@ -5,7 +5,7 @@
 <h3 align="center">👩‍💻 About Me</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/d8/24/82/d8248259f4a63e060760bd72b39709ab.jpg" /><br>
+  <img src="[https://i.pinimg.com/736x/d8/24/82/d8248259f4a63e060760bd72b39709ab.jpg](https://upload.wikimedia.org/wikipedia/en/6/6f/Cochin_University_of_Science_and_Technology_Logo.png)" /><br>
 
   I'm Barash Sharma from Jammu and Kashmir, India. Currently, I'm pursuing my Bachelor's in Computer Science at CUSAT.<br><br>
   <strong>Skills:</strong> Full-stack web development using Python, Java, C++, and C. Passionate about robotics and video editing. Proficient in object-oriented concepts, SQL, computer architecture, microprocessors, mathematics, and physics. Recognized for software development achievements. Committed to driving innovation and making a positive impact.
