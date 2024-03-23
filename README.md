@@ -8,17 +8,22 @@
 <img src="https://s3bucket-incpro.s3.eu-north-1.amazonaws.com/2022-02-24T19%3A20%3A18.214Z-logo_m1.png" />
 
 <br>
-
-
-
-
-
-
-
-
-  I'm Barash Sharma from Jammu and Kashmir, India. Currently, I'm pursuing my Bachelor's in Computer Science at CUSAT.<br><br>
-  <strong>Skills:</strong> Full-stack web development using Python, Java, C++, and C. Passionate about robotics and video editing. Proficient in object-oriented concepts, SQL, computer architecture, microprocessors, mathematics, and physics. Recognized for software development achievements. Committed to driving innovation and making a positive impact.
 </p>
+<ul>
+  <li><strong>Name:</strong> Barash Sharma</li>
+  <li><strong>Location:</strong> Jammu and Kashmir, India</li>
+  <li><strong>Education:</strong> Pursuing Bachelor's in Computer Science at CUSAT</li>
+  <li>
+    <strong>Skills:</strong>
+    <ul>
+      <li>Full-stack web development using Python, Java, C++, and C</li>
+      <li>Passionate about robotics and video editing</li>
+      <li>Proficient in object-oriented concepts, SQL, computer architecture, microprocessors, mathematics, and physics</li>
+      <li>Recognized for software development achievements</li>
+      <li>Committed to driving innovation and making a positive impact</li>
+    </ul>
+  </li>
+</ul>
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
