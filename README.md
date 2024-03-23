@@ -1,17 +1,15 @@
-<div align="center">
-  <a href="https://www.linkedin.com/in/barash-sharma-321705153/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCrHETrTYgbsTLpaoC2hH54g">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://twitter.com/BarashSharma">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://leetcode.com/barash1311/">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LeetCode logo" />
-  </a>
+<div align="left">
+  <img src="https://i.redd.it/31b2ii8hchi31.jpg" height="40" alt="Rust logo"  />
+  <img src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" height="40" alt="Visual Studio Code logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="Firebase logo"  />
+  <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" height="40" alt="Java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker logo"  />
+  <img src="https://www.python.org/static/img/python-logo.png" height="40" alt="Python logo" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" height="40" alt="Java logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="40" alt="C++ logo" />
+  <img src="https://www.kindpng.com/picc/m/176-1766685_c-programming-language-hd-png-download.png" height="40" alt="C logo" />
 </div>
+
 
 <h1 align="center">Hey there! 👋</h1>
 
