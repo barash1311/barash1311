@@ -12,50 +12,60 @@
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
-<div align="center" style="display: flex; flex-wrap: nowrap;">
-  <!-- Icons -->
-  <div style="margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript icon" />
+  <div class="matrix-container">
+    <!-- First row -->
+    <div class="icon-row">
+      <div class="icon-item">
+        <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript icon" />
+      </div>
+      <div class="icon-item">
+        <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML icon" />
+      </div>
+      <div class="icon-item">
+        <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS icon" />
+      </div>
+      <div class="icon-item">
+        <img src="https://skillicons.dev/icons?i=wasm" height="50" alt="WebAssembly icon" />
+      </div>
+    </div>
+    <!-- Second row -->
+    <div class="icon-row">
+      <div class="icon-item">
+        <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python icon" />
+      </div>
+      <div class="icon-item">
+        <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java icon" />
+      </div>
+      <div class="icon-item">
+        <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++ icon" />
+      </div>
+      <div class="icon-item">
+        <img src="https://skillicons.dev/icons?i=c" height="50" alt="C icon" />
+      </div>
+    </div>
+    <!-- Third row -->
+    <div class="icon-row">
+      <div class="icon-item">
+        <img src="https://skillicons.dev/icons?i=react" height="50" alt="React icon" />
+      </div>
+      <div class="icon-item">
+        <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js icon" />
+      </div>
+      <div class="icon-item">
+        <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB icon" />
+      </div>
+      <div class="icon-item">
+        <img src="https://skillicons.dev/icons?i=express" height="50" alt="Express.js icon" />
+      </div>
+    </div>
+    <!-- Fourth row -->
+    <div class="icon-row">
+      <div class="icon-item">
+        <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL icon" />
+      </div>
+      <!-- Add more icons here -->
+    </div>
   </div>
-  <div style="margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML icon" />
-  </div>
-  <div style="margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS icon" />
-  </div>
-  <div style="margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=wasm" height="50" alt="WebAssembly icon" />
-  </div>
-  <div style="margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python icon" />
-  </div>
-  <div style="margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java icon" />
-  </div>
-  <div style="margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++ icon" />
-  </div>
-  <div style="margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=c" height="50" alt="C icon" />
-  </div>
-  <div style="margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=react" height="50" alt="React icon" />
-  </div>
-  <div style="margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js icon" />
-  </div>
-  <div style="margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB icon" />
-  </div>
-  <div style="margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=express" height="50" alt="Express.js icon" />
-  </div>
-  <div style="margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL icon" />
-  </div>
-</div>
-
-<br clear="both">
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=barash1311.barash1311&" />
