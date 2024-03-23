@@ -42,7 +42,13 @@
     [![MySQL icon](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
     <!-- Add more icons here -->
   </div>
+
+  <!-- Fifth row with icons from the second link -->
+  <div class="icon-row">
+    [![Java icon](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+  </div>
 </div>
+
 
 
 
