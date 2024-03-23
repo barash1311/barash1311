@@ -17,7 +17,7 @@
 
 <h3 align="left">👩‍💻 About Me</h3>
 
-<p align="left">I'm Barash Sharma from Jammu and Kashmir, India.<br><br>- 🔭 I’m a Computer Science Engineering Student <br>- 📚 I'm currently learning Networking, Data Structures, and Algorithms.<br>- ⚡ In my free time, I do LeetCode problems.</p>
+<p align="left">I'm a Computer Science student at CUSAT, with a focus on full-stack web development using Python, Java, C++, and C. Passionate about robotics and video editing. Experienced mentor at Atal Tinkering Labs. Proficient in object-oriented concepts, SQL, computer architecture, microprocessors, mathematics, and physics. Recognized for software development achievements. Committed to driving innovation and making a positive impact.</p>
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
@@ -34,12 +34,6 @@
 </div>
 <br clear="both">
 
-
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=barash1311.barash1311&"  />
 </div>
-
-###
