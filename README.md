@@ -12,7 +12,9 @@
 
 <h3 align="center">🛠 Languages and Tools</h3>
 
-<div align="left">
+<h3 align="left">🛠 Languages and Tools</h3>
+
+<div align="center">
   <img src="https://i.redd.it/31b2ii8hchi31.jpg" height="40" alt="Rust logo"  />
   <img src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" height="40" alt="Visual Studio Code logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="Firebase logo"  />
@@ -22,7 +24,17 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" height="40" alt="Java logo" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="40" alt="C++ logo" />
   <img src="https://www.kindpng.com/picc/m/176-1766685_c-programming-language-hd-png-download.png" height="40" alt="C logo" />
+  <br/>
+  <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" height="40" alt="HTML5 logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="40" alt="CSS3 logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" height="40" alt="JavaScript logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="40" alt="React logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="40" alt="Node.js logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" height="40" alt="MongoDB logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" height="40" alt="Express.js logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" height="40" alt="MySQL logo" />
 </div>
+
 
 <br clear="both">
 
