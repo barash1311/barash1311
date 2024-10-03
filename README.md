@@ -71,13 +71,7 @@
   </div>
 </div>
 
----
 
-<h3 align="center">📈 GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=barash1311&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 100%;" />
-</div>
 
 <h3 align="center">📈 GitHub Stats</h3>
 
