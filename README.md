@@ -87,7 +87,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=barash1311.barash1311" alt="Visitor Badge" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=barash1311&theme=radical&no-bg=true&no-frame=true&column=4" alt="GitHub Trophies" />
+
 </div>
 
