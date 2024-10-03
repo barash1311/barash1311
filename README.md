@@ -79,10 +79,24 @@
   <img src="https://github-readme-stats.vercel.app/api?username=barash1311&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 100%;" />
 </div>
 
-<div align="row">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=barash1311&theme=radical" alt="GitHub Streak" style="max-width: 100%;" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=barash1311.barash1311" alt="Visitor Badge" />
+<h3 align="center">📈 GitHub Stats</h3>
+
+<!-- GitHub Stats Section -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=barash1311&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 100%;" />
 </div>
+
+<!-- GitHub Streak and Visitor Badge Section -->
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=barash1311&theme=radical" alt="GitHub Streak" style="max-width: 45%;" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=barash1311.barash1311" alt="Visitor Badge" style="max-width: 10%;" />
+</div>
+
+<!-- GitHub Language Stats Section -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barash1311&layout=compact&langs_count=10&theme=radical" alt="Most Used Languages" style="max-width: 100%;" />
+</div>
+
 
 
 </div>
