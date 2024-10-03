@@ -81,9 +81,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=barash1311&theme=radical" alt="GitHub Streak" style="max-width: 100%;" />
-</div>
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=barash1311.barash1311" alt="Visitor Badge" />
 </div>
 
