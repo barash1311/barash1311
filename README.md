@@ -79,7 +79,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=barash1311&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 100%;" />
 </div>
 
-<div align="center">
+<div align="row">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=barash1311&theme=radical" alt="GitHub Streak" style="max-width: 100%;" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=barash1311.barash1311" alt="Visitor Badge" />
 </div>
