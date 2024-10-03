@@ -1,98 +1,84 @@
+<h1 align="center">Hey there! 👋 I'm Barash Sharma</h1>
 
-
-<h1 align="center">Hey there! 👋</h1>
-
-<h3 align="center">👩‍💻 About Me</h3>
+<h3 align="center">👩‍💻 Full-Stack Developer | Innovator | Problem Solver</h3>
 
 <p align="center">
-<img src="https://s3bucket-incpro.s3.eu-north-1.amazonaws.com/2022-02-24T19%3A20%3A18.214Z-logo_m1.png" />
-
-<br>
+  <img src="https://s3bucket-incpro.s3.eu-north-1.amazonaws.com/2022-02-24T19%3A20%3A18.214Z-logo_m1.png" />
 </p>
+
+<h3 align="center">👨‍💻 About Me</h3>
+
 <ul>
   <li><strong>Name:</strong> Barash Sharma</li>
   <li><strong>Location:</strong> Jammu and Kashmir, India</li>
-  <li><strong>Education:</strong> Pursuing Bachelor's in Computer Science at CUSAT</li>
-  <li>
-    <strong>Skills:</strong>
+  <li><strong>Education:</strong> Bachelor's in Computer Science at Cochin University of Science and Technology (CUSAT)</li>
+  <li><strong>Key Projects:</strong>
     <ul>
-      <li>Full-stack web development</li>
-      <li>Data Structures and Algorithm</li>
-      <li>Programming Langauges like Python, Java, C++, and C</li>
-      <li>Passionate about robotics and video editing</li>
-      <li>Proficient in object-oriented concepts, SQL, computer architecture, microprocessors, mathematics, and physics</li>
-      <li>Recognized for software development achievements</li>
-      <li>Committed to driving innovation and making a positive impact</li>
-      <li>
-        Collaboration Tools:
-        <ul>
-          <li>Google Docs</li>
-          <li>Microsoft Office Online</li>
-        </ul>
-      </li>
-      <li>
-        Technical Support and Troubleshooting:
-        <ul>
-          <li>Remote Access Tools:
-            <ul>
-              <li>PuTTY (for SSH)</li>
-              <li>Remote desktop access tools</li>
-            </ul>
-          </li>
-          <li>Integrated Development Environments (IDEs):
-            <ul>
-              <li>Visual Studio Code</li>
-              <li>PyCharm</li>
-            </ul>
-          </li>
-          <li>Version Control Systems (VCS):
-            <ul>
-              <li>Git</li>
-              <li>GitHub</li>
-            </ul>
-          </li>
-        </ul>
-      </li>
+      <li>🚀 <strong>Organizational Chatbot (IIT Jammu):</strong> Designed a chatbot to streamline student-faculty interaction.</li>
+      <li>🌀 <strong>Disaster Management Website:</strong> Created a platform for disaster response coordination.</li>
+      <li>💊 <strong>Medical App (IMA):</strong> Built an app providing medical resources for IMA.</li>
+      <li>🏢 <strong>Hostel App (Kerala Info Park):</strong> Developed a PWA for hostel management.</li>
     </ul>
   </li>
 </ul>
 
+---
 
-<h3 align="left">🛠 Languages and Tools</h3>
+<h3 align="center">🔧 Skills</h3>
+
+<ul>
+  <li><strong>Full-Stack Development:</strong> HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, MySQL</li>
+  <li><strong>Programming Languages:</strong> Python, Java, C++, C</li>
+  <li><strong>Frameworks:</strong> React Native (Mobile), Expo</li>
+  <li><strong>Tools:</strong> Git, GitHub, VSCode, PyCharm, Microsoft Azure</li>
+  <li><strong>Version Control:</strong> Git, GitHub</li>
+  <li><strong>Other Skills:</strong> Algorithms, Data Structures, Object-Oriented Programming (OOP), SQL</li>
+</ul>
+
+---
+
+<h3 align="center">🌟 Achievements</h3>
+
+<ul>
+  <li>🏆 Recognized for software development excellence at IIT Jammu</li>
+  <li>🥇 Hackathon Team Lead in multiple events</li>
+  <li>🎖 Contributed to innovative solutions in disaster management and healthcare</li>
+</ul>
+
+---
+
+<h3 align="center">🛠 Languages and Tools</h3>
 
 <div align="center">
   <!-- First row -->
   <div class="icon-row">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript icon" />
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML icon" />
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS icon" />
-    <img src="https://skillicons.dev/icons?i=wasm" alt="WebAssembly icon" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="JS, HTML, CSS, WebAssembly" />
   </div>
 
   <!-- Second row -->
   <div class="icon-row">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python icon" />
-    <img src="https://skillicons.dev/icons?i=java" alt="Java icon" />
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++ icon" />
-    <img src="https://skillicons.dev/icons?i=c" alt="C icon" />
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,c" alt="Python, Java, C++, C" />
   </div>
 
   <!-- Third row -->
   <div class="icon-row">
-    <img src="https://skillicons.dev/icons?i=react" alt="React icon" />
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js icon" />
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB icon" />
-    <img src="https://skillicons.dev/icons?i=express" alt="Express.js icon" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express" alt="React, Node.js, MongoDB, Express.js" />
   </div>
 
   <!-- Fourth row -->
   <div class="icon-row">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL icon" />
-    <!-- Add more icons here -->
+    <img src="https://skillicons.dev/icons?i=mysql,git,github,azure" alt="MySQL, Git, GitHub, Azure" />
   </div>
 </div>
 
+---
+
+<h3 align="center">📈 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=barash1311.barash1311&" />
+  <img src="https://github-readme-stats.vercel.app/api?username=barash1311&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=barash1311.barash1311&" alt="Visitor Badge" />
 </div>
