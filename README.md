@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Barash Sharma</h1>
+<h1 align="center">Hey there!</h1>
 
 <h3 align="center">👩‍💻 Full-Stack Developer | Innovator | Problem Solver</h3>
 
@@ -76,9 +76,18 @@
 <h3 align="center">📈 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=barash1311&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=barash1311&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 100%;" />
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=barash1311.barash1311&" alt="Visitor Badge" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=barash1311&theme=radical" alt="GitHub Streak" style="max-width: 100%;" />
 </div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=barash1311.barash1311" alt="Visitor Badge" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=barash1311&theme=radical&no-bg=true&no-frame=true&column=4" alt="GitHub Trophies" />
+</div>
+
