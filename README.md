@@ -1,90 +1,88 @@
-<h1 align="center">Hey there! 👋</h1>
+<h1 align="center">Hey there! 👋 I'm Barash Sharma</h1>
 
-<h2 align="center">🚀 Full-Stack Engineer | DevOps Enthusiast | Cloud Developer</h2>
+<h3 align="center">🚀 Full-Stack Engineer | DevOps Practitioner | Cloud Developer</h3>
 
 <p align="center">
-  <img src="https://s3bucket-incpro.s3.eu-north-1.amazonaws.com/2022-02-24T19%3A20%3A18.214Z-logo_m1.png" width="100" alt="Logo" />
+  <img src="https://s3bucket-incpro.s3.eu-north-1.amazonaws.com/2022-02-24T19%3A20%3A18.214Z-logo_m1.png" width="120" alt="Logo" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm **Barash Sharma**, a passionate Software Developer and Full-Stack Engineer based in *India*. Currently pursuing a **B.Tech in Computer Science** from **CUSAT**, I enjoy building scalable, user-centric web & mobile solutions, especially in domains like **healthcare**, **disaster response**, and **smart energy**.
+I’m a passionate and proactive **Full-Stack Developer** currently pursuing a **B.Tech in Computer Science** at **CUSAT**. My work thrives at the intersection of **software engineering**, **cloud computing**, and **DevOps**. I specialize in delivering high-impact applications in domains like **healthcare**, **disaster response**, and **energy optimization**.
 
 ---
 
-### 🧠 Key Skills & Technologies
+### 🧰 Tech Stack & Tools
 
 - **Languages:** C/C++, Java, Python, JavaScript, SQL  
-- **Web & App Dev:** HTML, CSS, React, React Native, Node.js, Express.js, MERN Stack  
-- **Cloud & DevOps:** Docker, AWS (EC2, S3, CloudWatch), Firebase, Supabase, GitHub Actions  
-- **Other Tools:** Git, GitHub, Figma, FastAPI, MongoDB, MySQL, WebSockets
-
----
-
-### 🏗️ Projects
-
-#### 🔋 Power App
-Smart energy optimization tool used at **IIT Jammu**  
-`React Native | Node.js | ML | GitHub Actions`
-- Reduced electricity usage by **20%** through predictive scheduling
-- Improved forecasting accuracy by **30%**
-
-#### 💊 VertEase – Vertigo Diagnosis & Support
-Mobile health platform for symptom tracking and doctor communication  
-`React Native | FastAPI | AWS | Docker`
-- Enabled **real-time interaction** with JWT-auth + WebSockets
-- Rolled out **multilingual support** and optimized user experience
-
-#### 🌀 Disaster Management Portal  
-Created a centralized platform to coordinate emergency response  
-`React | Firebase | Python`
-- Helped agencies react faster and connect during crises
-
-#### 🏢 Hostel Management PWA  
-Progressive Web App for hostel management in **InfoPark Kerala**  
-`React | Firebase | Node.js`
-- Digitized processes like room allocation and issue tracking
-
-#### 🤖 IIT Jammu Chatbot  
-Interactive bot for faculty-student queries  
-`React | Python | Figma | Node.js`
-- Increased resource access by **30%** and cut dev time by **25%**
-
----
-
-### 💼 Experience
-
-- **Software Engineer Intern @ Ylogx Pvt Ltd (2025)**  
-  Java, UI/UX, DevOps, MERN Stack  
-  - Boosted backend API speed by **20%**, automated CI/CD with GitHub Actions
-
-- **React Native Intern @ IIT Jammu (2024)**  
-  UI design, Python integration  
-  - Developed a chatbot with usage analytics; improved accessibility by **30%**
-
-- **Full Stack Intern @ IMA & InfoPark Kerala (2024)**  
-  React Native, Docker, AWS  
-  - Built ML models to detect hazards; deployed live apps with real-time analytics
-
----
-
-### 🏆 Achievements
-
-- 🥇 Winner of multiple national-level **hackathons**
-- 🏅 Software innovation awards from **IIT Jammu**
-- 💡 Real-world impact in **healthcare** and **disaster relief sectors**
-
----
-
-### 🛠 Tech Stack
+- **Web & App Dev:** HTML, CSS, React, React Native, Node.js, Express, MERN Stack  
+- **Cloud & DevOps:** Docker, AWS (EC2, S3, CloudWatch), GitHub Actions, Firebase, Supabase  
+- **Tools & Frameworks:** FastAPI, MongoDB, MySQL, Figma, WebSockets, VSCode, Git
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,react,reactnative,nodejs,express,mongodb,mysql" />
   <br/>
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,docker,aws,firebase,git,github,vscode" />
 </p>
+
+---
+
+### 🚀 Featured Projects
+
+#### 🔋 **Power App** — Smart Energy Optimization  
+`React Native • Node.js • ML • GitHub Actions`  
+Deployed at **IIT Jammu**, this app cut power usage by **20%** using predictive analytics and intelligent scheduling. Boosted forecast accuracy by **30%** and integrated real-time performance tracking.
+
+---
+
+#### 💊 **VertEase** — Vertigo Diagnosis & Telemedicine Platform  
+`React Native • FastAPI • AWS • Docker`  
+Healthcare companion app supporting real-time doctor-patient interaction. Used **JWT + WebSockets**, built multilingual workflows, and deployed via containerized CI/CD pipelines on AWS.
+
+---
+
+#### 🌀 **Disaster Management Portal**  
+`React • Firebase • Python`  
+Emergency response platform enabling faster coordination across agencies during crises. Supported rapid deployment and live updates.
+
+---
+
+#### 🏢 **Hostel Management PWA**  
+`React • Firebase • Node.js`  
+Designed for **InfoPark Kerala**, digitizing administrative operations like check-ins, issue tracking, and room allocations.
+
+---
+
+#### 🤖 **Academic Chatbot**  
+`React • Python • Node.js • Figma`  
+Built at **IIT Jammu**, a conversational assistant to streamline student-faculty engagement. Boosted academic access by **30%** and reduced support cycles.
+
+---
+
+### 💼 Experience
+
+#### 🧑‍💻 Software Engineer Intern @ **Ylogx Pvt Ltd** *(2025)*  
+- Enhanced backend APIs to improve latency by **20%**  
+- Ran UX tests, resolving 10+ issues and improving satisfaction scores  
+- Automated builds & deployments using **GitHub Actions**
+
+#### 🔧 React Native Intern @ **IIT Jammu** *(2024)*  
+- Created chatbot interface boosting user engagement by **30%**  
+- Aligned UI/UX via Figma and collaborated with backend teams to cut dev time by **25%**
+
+#### 🧠 Full Stack Developer Intern @ **IMA & InfoPark Kerala** *(2024)*  
+- Built ML/NLP pipeline to detect safety risks with **25%+** accuracy gain  
+- Deployed containerized backend on AWS with JWT-secured real-time messaging
+
+---
+
+### 🏆 Achievements
+
+- 🥇 **Winner** of national-level hackathons  
+- 🎖 Recognized for software innovation at **IIT Jammu**  
+- 💡 Delivered impactful tech in **healthcare**, **energy**, and **emergency management**
 
 ---
 
@@ -101,3 +99,12 @@ Interactive bot for faculty-student queries
 </p>
 
 ---
+
+### 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/barash-sharma)  
+- 💻 [GitHub](https://github.com/barash1311)  
+- 📧 barash1311@gmail.com  
+
+---
+
