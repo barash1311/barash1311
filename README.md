@@ -1,5 +1,6 @@
-<h1 align="center">Hey there! 👋 I'm **Barash Sharma**</h1>
-<h3 align="center">🚀 Full‑Stack Engineer | DevOps | Cloud Developer</h3>
+<h1 align="center">Hey there! 👋 I'm Barash Sharma</h1>
+
+<h3 align="center">🚀 Full-Stack Engineer | DevOps Practitioner | Cloud Developer</h3>
 
 <p align="center">
   <img src="https://s3bucket-incpro.s3.eu-north-1.amazonaws.com/2022-02-24T19%3A20%3A18.214Z-logo_m1.png" width="120" alt="Logo" />
@@ -7,102 +8,104 @@
 
 ---
 
-## 👨‍💻 About Me
-I’m a **Full‑Stack Developer** fueling innovation with **Cloud & DevOps** at heart. Pursuing my **B.Tech CSE at CUSAT**, I build tech that solves real-world green energy, healthcare, and disaster-chair needs—efficiently and elegantly.
+### 👨‍💻 About Me
+
+I’m a passionate and proactive **Full-Stack Developer** currently pursuing a **B.Tech in Computer Science** at **CUSAT**. My work thrives at the intersection of **software engineering**, **cloud computing**, and **DevOps**. I specialize in delivering high-impact applications in domains like **healthcare**, **disaster response**, and **energy optimization**.
 
 ---
 
-## ✨ What I Offer
-| Feature | Value |
-|--------|-------|
-| 🚀 Impact | Dropped power use by **20%** at IIT Jammu via smart analytics |
-| 💊 Healthcare | Real‑time vertigo app launched with live chat & multi‑language |
-| 🌪 Disaster Tech | Real-time portal improving emergency coordination |
-| 🔄 Automation | Robust CI/CD delivery with Docker, GitHub Actions & AWS |
+### 🧰 Tech Stack & Tools
 
----
-
-## 🛠 Tech Stack & Service Design
+- **Languages:** C/C++, Java, Python, JavaScript, SQL  
+- **Web & App Dev:** HTML, CSS, React, React Native, Node.js, Express, MERN Stack  
+- **Cloud & DevOps:** Docker, AWS (EC2, S3, CloudWatch), GitHub Actions, Firebase, Supabase  
+- **Tools & Frameworks:** FastAPI, MongoDB, MySQL, Figma, WebSockets, VSCode, Git
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,reactnative,nodejs,express,mongodb,mysql,python,java,cpp,c,docker,aws,firebase,git,github,vscode" width="400"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,reactnative,nodejs,express,mongodb,mysql" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,docker,aws,firebase,git,github,vscode" />
 </p>
 
 ---
 
-## 🚧 Featured Projects
+### 🚀 Featured Projects
 
-### 🔋 **Power App** — Energy Optimization
-- **Tech Stack:** React Native • Node.js • ML • GitHub Actions  
-- **Impact:** 20% less energy consumption & 30% boost in prediction accuracy  
-- ➤ Built for real‑time monitoring at **IIT Jammu**
-
-### 💊 **VertEase** — Vertigo Support Platform
-- **Stack:** React Native • FastAPI • AWS • Docker  
-- **Highlight:** Real-time doctor chat, multilingual UI, JWT & WebSocket integration
-
-### 🌀 **Disaster Management Portal**
-- **Stack:** React • Firebase • Python  
-- **Highlight:** Built live-response coordination tool for agencies
-
-### 🏢 **Hostel PWA (InfoPark Kerala)**
-- **Stack:** React • Firebase • Node.js  
-- **Highlight:** Digitized hostel operations like room management & requests
-
-### 🤖 **Academic Chatbot @ IIT Jammu**
-- **Tech:** React • Python • Node.js • Figma  
-- **Highlight:** Boosted help efficiency by 30% and slashed dev cycles with analytics
+#### 🔋 **Power App** — Smart Energy Optimization  
+`React Native • Node.js • ML • GitHub Actions`  
+Deployed at **IIT Jammu**, this app cut power usage by **20%** using predictive analytics and intelligent scheduling. Boosted forecast accuracy by **30%** and integrated real-time performance tracking.
 
 ---
 
-## 💼 Professional Experience
-
-### 🧑‍💻 **Software Engineer Intern @ Ylogx Pvt Ltd (2025)**
-- Optimized backend APIs, improving response speed by **20%**  
-- Resolved 10+ UX issues and improved user satisfaction  
-- Automated CI/CD pipelines with **GitHub Actions**
-
-### 🧠 **React Native Developer @ IIT Jammu (2024)**
-- Designed chatbot UI that increased academic access by **30%**
-- Coordinated with backend teams and cut dev cycles by **25%**
-
-### 🔧 **Full Stack Intern @ IMA & InfoPark Kerala (2024)**
-- Built ML-powered safety-check feature with 25% higher detection accuracy  
-- Deployed Dockerized backend across AWS, with real-time updates & authentication
+#### 💊 **VertEase** — Vertigo Diagnosis & Telemedicine Platform  
+`React Native • FastAPI • AWS • Docker`  
+Healthcare companion app supporting real-time doctor-patient interaction. Used **JWT + WebSockets**, built multilingual workflows, and deployed via containerized CI/CD pipelines on AWS.
 
 ---
 
-## 🏆 Awards & Achievements 🏆
-- 🥇 Champion of national-level hackathons  
-- 🎖 Innovation award recipient at **IIT Jammu**  
-- 💡 Delivered production-grade applications in **energy**, **healthcare**, **education**, and **emergency response**
+#### 🌀 **Disaster Management Portal**  
+`React • Firebase • Python`  
+Emergency response platform enabling faster coordination across agencies during crises. Supported rapid deployment and live updates.
 
 ---
 
-## 🎉 GitHub Activity & Visitor Stats
+#### 🏢 **Hostel Management PWA**  
+`React • Firebase • Node.js`  
+Designed for **InfoPark Kerala**, digitizing administrative operations like check-ins, issue tracking, and room allocations.
+
+---
+
+#### 🤖 **Academic Chatbot**  
+`React • Python • Node.js • Figma`  
+Built at **IIT Jammu**, a conversational assistant to streamline student-faculty engagement. Boosted academic access by **30%** and reduced support cycles.
+
+---
+
+### 💼 Experience
+
+#### 🧑‍💻 Software Engineer Intern @ **Ylogx Pvt Ltd** *(2025)*  
+- Enhanced backend APIs to improve latency by **20%**  
+- Ran UX tests, resolving 10+ issues and improving satisfaction scores  
+- Automated builds & deployments using **GitHub Actions**
+
+#### 🔧 React Native Intern @ **IIT Jammu** *(2024)*  
+- Created chatbot interface boosting user engagement by **30%**  
+- Aligned UI/UX via Figma and collaborated with backend teams to cut dev time by **25%**
+
+#### 🧠 Full Stack Developer Intern @ **IMA & InfoPark Kerala** *(2024)*  
+- Built ML/NLP pipeline to detect safety risks with **25%+** accuracy gain  
+- Deployed containerized backend on AWS with JWT-secured real-time messaging
+
+---
+
+### 🏆 Achievements
+
+- 🥇 **Winner** of national-level hackathons  
+- 🎖 Recognized for software innovation at **IIT Jammu**  
+- 💡 Delivered impactful tech in **healthcare**, **energy**, and **emergency management**
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=barash1311&show_icons=true&theme=radical" width="300" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=barash1311&theme=radical" width="300" alt="Streak stats"/>
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=barash1311.barash1311" alt="Visitor Badge" width="200"/>
-</p>
-
----
-
-## 🚀 Let’s Collaborate!
-<p align="center">
-  <a href="https://www.linkedin.com/in/barash-sharma"><img height="32" src="https://img.shields.io/badge/LinkedIn‑Connect-blue?logo=linkedin"></a>
-  <a href="https://github.com/barash1311"><img height="32" src="https://img.shields.io/badge/GitHub‑Follow-black?logo=github"></a>
-  <a href="mailto:barash1311@gmail.com"><img height="32" src="https://img.shields.io/badge/Email‑Me‑via‑Gmail-red?logo=gmail"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=barash1311&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=barash1311&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barash1311&layout=compact&langs_count=10&theme=radical" />
+  <br/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=barash1311.barash1311" />
 </p>
 
 ---
 
-## 🧩 Bonus Visual Flair
+### 📫 Let's Connect
 
-- **Animated GIF Header:** Create and embed a subtle looping GIF hero banner showcasing your apps in action or terminal commands running CI pipelines.
-- **Lottie Files:** Embed Lottie JSON animations (e.g. code flow or cloud logos) using `iframe`.
-- **GitHub Trophies:** Add:
+- 💼 [LinkedIn](https://www.linkedin.com/in/barash-sharma)  
+- 💻 [GitHub](https://github.com/barash1311)  
+- 📧 barash1311@gmail.com  
+
+---
+
+ 
