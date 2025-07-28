@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-I'm **Barash Sharma**, a passionate Software Developer and Full-Stack Engineer based in *Jammu and Kashmir, India*. Currently pursuing a **B.Tech in Computer Science** from **CUSAT**, I enjoy building scalable, user-centric web & mobile solutions, especially in domains like **healthcare**, **disaster response**, and **smart energy**.
+I'm **Barash Sharma**, a passionate Software Developer and Full-Stack Engineer based in *India*. Currently pursuing a **B.Tech in Computer Science** from **CUSAT**, I enjoy building scalable, user-centric web & mobile solutions, especially in domains like **healthcare**, **disaster response**, and **smart energy**.
 
 ---
 
