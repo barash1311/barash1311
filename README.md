@@ -27,6 +27,13 @@ I’m a passionate and proactive **Full-Stack Developer** currently pursuing a *
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,docker,aws,firebase,git,github,vscode" />
 </p>
 
+<p align="center">
+  <a href="https://meshery.io">
+    <img src="https://img.shields.io/badge/Meshery-00B39F?style=for-the-badge&logo=meshery&logoColor=white" />
+  </a>
+</p>
+
+
 ---
 
 ### 🚀 Featured Projects
