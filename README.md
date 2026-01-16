@@ -101,17 +101,6 @@ B.Tech in Computer Science Engineering • CGPA: 8.5/10
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=barash1311&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/barash1311)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barash1311&layout=compact&theme=dark&hide_border=true&langs_count=6)](https://github.com/barash1311)
-
-</div>
-
----
 
 ## Contact
 
