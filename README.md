@@ -115,21 +115,10 @@ Expected Graduation: 2026
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=barash1311&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/barash1311)
-
-[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=barash1311&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/barash1311)
- 
-</div>
-
----
-
 ## Get In Touch
 
 I'm open to internship opportunities, collaboration on interesting projects, and discussions about software development.
 
 - **Email:** barash1311@gmail.com
 - **LinkedIn:** [linkedin.com/in/barash-sharma](https://www.linkedin.com/in/barash-sharma)
-- **Location:** Cochin, Kerala, India
+- **Location:** India
