@@ -1,7 +1,7 @@
 <h1 align="center">Barash Sharma</h1>
 
 <p align="center">
-  <b>Full-Stack Developer</b> | B.Tech Computer Science @ CUSAT (Expected 2026)
+  <b>Full-Stack Developer</b> | B.Tech Computer Science @ CUSAT
 </p>
 
 <p align="center">
@@ -18,106 +18,105 @@
 
 ---
 
-## About Me
+## About
 
-I'm a computer science student focused on building practical, scalable applications. My work spans full-stack development, cloud infrastructure, and DevOps practices. I enjoy solving real-world problems through clean code and efficient system design.
+Computer Science student at CUSAT with hands-on experience in full-stack development and cloud infrastructure. I build web and mobile applications using modern frameworks and focus on writing maintainable code.
 
-Currently working as a Software Engineer Intern at Ylogx Pvt. Ltd., where I contribute to full-stack features, AWS infrastructure, and CI/CD automation.
+Currently working at **Ylogx Pvt. Ltd.** as a Software Engineer Intern, contributing to React-based frontends, AWS deployments, and automation workflows.
 
 ---
 
-## Technical Skills
+## Tech Stack
 
-**Languages**  
-JavaScript, Python, Java, SQL
+```
+Languages        JavaScript • Python • Java • SQL
+Frontend         React • React Native • Redux • Tailwind CSS
+Backend          Node.js • Express • Spring Boot • FastAPI
+Database         PostgreSQL • MySQL • MongoDB
+DevOps           Docker • AWS (EC2, S3, RDS) • GitHub Actions
+Tools            Git • Maven • Figma • Postman • VS Code
+```
 
-**Frontend**  
-React, React Native, Redux, React Hooks, Tailwind CSS, JSX, Responsive Design
-
-**Backend**  
-Node.js, Express.js, Spring Boot, Spring Framework, Spring Security, FastAPI  
-RESTful APIs, JWT Authentication, JPA/Hibernate, Role-Based Access Control
-
-**Database**  
-PostgreSQL, MySQL, MongoDB, Database Schema Design
-
-**DevOps & Cloud**  
-Docker, AWS (EC2, S3, RDS), GitHub Actions, CI/CD Pipelines
-
-**Tools**  
-Git/GitHub, Maven/Gradle, IntelliJ IDEA, VS Code, Figma, Swagger, Postman
-
-**Additional**  
-Payment Gateway Integration (Stripe), Pagination & Sorting, Spring AI Framework
+**Frameworks & Libraries:** Spring Security, JPA/Hibernate, JWT, React Hooks, REST APIs, RBAC
 
 ---
 
 ## Experience
 
-### Software Engineer Intern | Ylogx Pvt. Ltd.
-*February 2025 - Present*
+**Software Engineer Intern** • Ylogx Pvt. Ltd.  
+*Feb 2025 - Present*
 
-- Developed user and role management modules with filtering and search functionality
-- Designed and implemented responsive UI components using React and Figma
-- Managed AWS infrastructure including EC2, S3, and RDS deployments
-- Implemented CI/CD workflows using GitHub Actions
-- Contributed to database schema design and full-stack feature development
+- Building user management features with role-based access control and filtering
+- Designing responsive interfaces in Figma and implementing them in React
+- Managing cloud infrastructure on AWS (EC2, S3, RDS) and setting up CI/CD pipelines
+- Contributing to database design and backend API development
 
-### React Native Developer Intern | IIT Jammu
-*May 2024 - August 2024*
+**React Native Developer Intern** • IIT Jammu  
+*May 2024 - Aug 2024*
 
-- Built a campus chatbot application providing academic information and services
-- Designed complete UI/UX workflow in Figma and implemented cross-platform mobile interface
-- Developed backend API using FastAPI with secure authentication
-- Implemented role-based access control for students and administrators
+- Developed a campus information chatbot with React Native and FastAPI
+- Designed UI/UX flow and implemented cross-platform mobile interface
+- Built authentication system with role-based access for students and admins
+- Created database schema for user queries and campus data management
 
 ---
 
 ## Projects
 
-### VertiEase – Healthcare Management Platform
-*React Native, FastAPI, Docker, AWS, JWT*
+### [VertiEase](https://github.com/barash1311/vertiease) • Healthcare Management App
+**Stack:** React Native, FastAPI, Docker, AWS, PostgreSQL
 
-A mobile application for vertigo symptom tracking and appointment scheduling with healthcare providers.
+Mobile app for tracking vertigo symptoms and booking doctor appointments.
 
-- Built RESTful API with JWT authentication and deployed using Docker on AWS EC2
-- Implemented bilingual support (English/Hindi) and real-time appointment availability
-- Established CI/CD pipeline for automated testing and deployment
+- REST API with JWT authentication, containerized and deployed on AWS EC2
+- Bilingual interface (English/Hindi) with real-time appointment updates
+- Automated CI/CD pipeline for testing and deployment
 
+### [Power App](https://github.com/barash1311/power-app) • Energy Monitoring
+**Stack:** React Native, Node.js, Python
 
-### Power App – Energy Monitoring System
-*React Native, Node.js, Python*
+Electricity consumption tracker built for IIT Jammu campus infrastructure.
 
-Real-time electricity consumption monitoring system deployed at IIT Jammu campus.
+- Real-time monitoring dashboard with usage analytics
+- Node.js backend for sensor data collection and aggregation
+- Automated reporting system for consumption patterns
 
-- Developed analytics dashboard for tracking usage patterns across campus infrastructure
-- Built data collection and processing pipeline using Node.js
-- Implemented automated reporting and data aggregation
+### [ShopHub](https://github.com/barash1311/shophub) • E-Commerce Platform
+**Stack:** Spring Boot, React, PostgreSQL, Stripe API
 
-### E-Commerce Platform (Personal Project)
-*Spring Boot, React, PostgreSQL, Stripe*
+Full-stack e-commerce application with payment integration.
 
-Full-stack e-commerce application with secure payment processing and admin management.
-
-- Implemented Spring Security with JWT-based authentication and RBAC
-- Integrated Stripe payment gateway for transaction processing
-- Built admin dashboard for inventory and order management
+- Spring Security implementation with JWT and role-based access
+- Stripe payment gateway integration for secure transactions
+- Admin panel for inventory and order management
 - Deployed on AWS with PostgreSQL database
 
 ---
 
 ## Education
 
-**Cochin University of Science and Engineering**  
-B.Tech in Computer Science Engineering | CGPA: 8.5/10  
-Expected Graduation: 2026
+**Cochin University of Science and Technology**  
+B.Tech in Computer Science Engineering • CGPA: 8.5/10  
+*2022 - 2026*
 
 ---
 
-## Get In Touch
+## GitHub Stats
 
-I'm open to internship opportunities, collaboration on interesting projects, and discussions about software development.
+<div align="center">
 
-- **Email:** barash1311@gmail.com
-- **LinkedIn:** [linkedin.com/in/barash-sharma](https://www.linkedin.com/in/barash-sharma)
-- **Location:** India
+[![GitHub Streak](https://streak-stats.demolab.com?user=barash1311&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/barash1311)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barash1311&layout=compact&theme=dark&hide_border=true&langs_count=6)](https://github.com/barash1311)
+
+</div>
+
+---
+
+## Contact
+
+Open to collaborating on interesting projects or discussing full-stack development.
+
+📧 **Email:** barash1311@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/barash-sharma](https://www.linkedin.com/in/barash-sharma)  
+📍 **Location:** Kerala, India
