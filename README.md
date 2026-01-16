@@ -84,7 +84,6 @@ A mobile application for vertigo symptom tracking and appointment scheduling wit
 - Implemented bilingual support (English/Hindi) and real-time appointment availability
 - Established CI/CD pipeline for automated testing and deployment
 
-[View Project](https://github.com/barash1311/vertiease) (if public)
 
 ### Power App – Energy Monitoring System
 *React Native, Node.js, Python*
