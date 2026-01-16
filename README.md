@@ -1,118 +1,132 @@
-<h1 align="center">Hey there! 👋 I'm Barash Sharma</h1>
-
-<h3 align="center">🚀 Full-Stack Engineer | DevOps Practitioner | Cloud Developer</h3>
+<h1 align="center">Barash Sharma</h1>
 
 <p align="center">
-  <img src="https://s3bucket-incpro.s3.eu-north-1.amazonaws.com/2022-02-24T19%3A20%3A18.214Z-logo_m1.png" width="120" alt="Logo" />
-</p>
-
----
-
-### 👨‍💻 About Me
-
-I’m a passionate and proactive **Full-Stack Developer** currently pursuing a **B.Tech in Computer Science** at **CUSAT**. My work thrives at the intersection of **software engineering**, **cloud computing**, and **DevOps**. I specialize in delivering high-impact applications in domains like **healthcare**, **disaster response**, and **energy optimization**.
-
----
-
-### 🧰 Tech Stack & Tools
-
-- **Languages:** C/C++, Java, Python, JavaScript, SQL  
-- **Web & App Dev:** HTML, CSS, React, React Native, Node.js, Express, MERN Stack  
-- **Cloud & DevOps:** Docker, AWS (EC2, S3, CloudWatch), GitHub Actions, Firebase, Supabase  
-- **Tools & Frameworks:** FastAPI, MongoDB, MySQL, Figma, WebSockets, VSCode, Git
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,reactnative,nodejs,express,mongodb,mysql" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,docker,aws,firebase,git,github,vscode" />
+  <b>Full-Stack Developer</b> | B.Tech Computer Science @ CUSAT (Expected 2026)
 </p>
 
 <p align="center">
-  <a href="https://meshery.io">
-    <img src="https://img.shields.io/badge/Meshery-00B39F?style=for-the-badge&logo=meshery&logoColor=white" />
+  <a href="https://www.linkedin.com/in/barash-sharma">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:barash1311@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/barash1311">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
+---
+
+## About Me
+
+I'm a computer science student focused on building practical, scalable applications. My work spans full-stack development, cloud infrastructure, and DevOps practices. I enjoy solving real-world problems through clean code and efficient system design.
+
+Currently working as a Software Engineer Intern at Ylogx Pvt. Ltd., where I contribute to full-stack features, AWS infrastructure, and CI/CD automation.
 
 ---
 
-### 🚀 Featured Projects
+## Technical Skills
 
-#### 🔋 **Power App** — Smart Energy Optimization  
-`React Native • Node.js • ML • GitHub Actions`  
-Deployed at **IIT Jammu**, this app cut power usage by **20%** using predictive analytics and intelligent scheduling. Boosted forecast accuracy by **30%** and integrated real-time performance tracking.
+**Languages**  
+JavaScript, Python, Java, SQL
 
----
+**Frontend**  
+React, React Native, Redux, React Hooks, Tailwind CSS, JSX, Responsive Design
 
-#### 💊 **VertEase** — Vertigo Diagnosis & Telemedicine Platform  
-`React Native • FastAPI • AWS • Docker`  
-Healthcare companion app supporting real-time doctor-patient interaction. Used **JWT + WebSockets**, built multilingual workflows, and deployed via containerized CI/CD pipelines on AWS.
+**Backend**  
+Node.js, Express.js, Spring Boot, Spring Framework, Spring Security, FastAPI  
+RESTful APIs, JWT Authentication, JPA/Hibernate, Role-Based Access Control
 
----
+**Database**  
+PostgreSQL, MySQL, MongoDB, Database Schema Design
 
-#### 🌀 **Disaster Management Portal**  
-`React • Firebase • Python`  
-Emergency response platform enabling faster coordination across agencies during crises. Supported rapid deployment and live updates.
+**DevOps & Cloud**  
+Docker, AWS (EC2, S3, RDS), GitHub Actions, CI/CD Pipelines
 
----
+**Tools**  
+Git/GitHub, Maven/Gradle, IntelliJ IDEA, VS Code, Figma, Swagger, Postman
 
-#### 🏢 **Hostel Management PWA**  
-`React • Firebase • Node.js`  
-Designed for **InfoPark Kerala**, digitizing administrative operations like check-ins, issue tracking, and room allocations.
-
----
-
-#### 🤖 **Academic Chatbot**  
-`React • Python • Node.js • Figma`  
-Built at **IIT Jammu**, a conversational assistant to streamline student-faculty engagement. Boosted academic access by **30%** and reduced support cycles.
+**Additional**  
+Payment Gateway Integration (Stripe), Pagination & Sorting, Spring AI Framework
 
 ---
 
-### 💼 Experience
+## Experience
 
-#### 🧑‍💻 Software Engineer Intern @ **Ylogx Pvt Ltd** *(2025)*  
-- Enhanced backend APIs to improve latency by **20%**  
-- Ran UX tests, resolving 10+ issues and improving satisfaction scores  
-- Automated builds & deployments using **GitHub Actions**
+### Software Engineer Intern | Ylogx Pvt. Ltd.
+*February 2025 - Present*
 
-#### 🔧 React Native Intern @ **IIT Jammu** *(2024)*  
-- Created chatbot interface boosting user engagement by **30%**  
-- Aligned UI/UX via Figma and collaborated with backend teams to cut dev time by **25%**
+- Developed user and role management modules with filtering and search functionality
+- Designed and implemented responsive UI components using React and Figma
+- Managed AWS infrastructure including EC2, S3, and RDS deployments
+- Implemented CI/CD workflows using GitHub Actions
+- Contributed to database schema design and full-stack feature development
 
-#### 🧠 Full Stack Developer Intern @ **IMA & InfoPark Kerala** *(2024)*  
-- Built ML/NLP pipeline to detect safety risks with **25%+** accuracy gain  
-- Deployed containerized backend on AWS with JWT-secured real-time messaging
+### React Native Developer Intern | IIT Jammu
+*May 2024 - August 2024*
 
----
-
-### 🏆 Achievements
-
-- 🥇 **Winner** of national-level hackathons  
-- 🎖 Recognized for software innovation at **IIT Jammu**  
-- 💡 Delivered impactful tech in **healthcare**, **energy**, and **emergency management**
+- Built a campus chatbot application providing academic information and services
+- Designed complete UI/UX workflow in Figma and implemented cross-platform mobile interface
+- Developed backend API using FastAPI with secure authentication
+- Implemented role-based access control for students and administrators
 
 ---
 
-### 📊 GitHub Stats
+## Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=barash1311&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=barash1311&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barash1311&layout=compact&langs_count=10&theme=radical" />
-  <br/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=barash1311.barash1311" />
-</p>
+### VertiEase – Healthcare Management Platform
+*React Native, FastAPI, Docker, AWS, JWT*
+
+A mobile application for vertigo symptom tracking and appointment scheduling with healthcare providers.
+
+- Built RESTful API with JWT authentication and deployed using Docker on AWS EC2
+- Implemented bilingual support (English/Hindi) and real-time appointment availability
+- Established CI/CD pipeline for automated testing and deployment
+
+[View Project](https://github.com/barash1311/vertiease) (if public)
+
+### Power App – Energy Monitoring System
+*React Native, Node.js, Python*
+
+Real-time electricity consumption monitoring system deployed at IIT Jammu campus.
+
+- Developed analytics dashboard for tracking usage patterns across campus infrastructure
+- Built data collection and processing pipeline using Node.js
+- Implemented automated reporting and data aggregation
+
+### E-Commerce Platform (Personal Project)
+*Spring Boot, React, PostgreSQL, Stripe*
+
+Full-stack e-commerce application with secure payment processing and admin management.
+
+- Implemented Spring Security with JWT-based authentication and RBAC
+- Integrated Stripe payment gateway for transaction processing
+- Built admin dashboard for inventory and order management
+- Deployed on AWS with PostgreSQL database
 
 ---
 
-### 📫 Let's Connect
+## Education
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/barash-sharma)  
-- 💻 [GitHub](https://github.com/barash1311)  
-- 📧 barash1311@gmail.com  
+**Cochin University of Science and Engineering**  
+B.Tech in Computer Science Engineering | CGPA: 8.5/10  
+Expected Graduation: 2026
 
 ---
 
- 
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=barash1311&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barash1311&layout=compact&theme=default&hide_border=true)
+
+---
+
+## Get In Touch
+
+I'm open to internship opportunities, collaboration on interesting projects, and discussions about software development.
+
+- **Email:** barash1311@gmail.com
+- **LinkedIn:** [linkedin.com/in/barash-sharma](https://www.linkedin.com/in/barash-sharma)
+- **Location:** Cochin, Kerala, India
