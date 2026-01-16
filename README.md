@@ -117,17 +117,15 @@ Expected Graduation: 2026
 
 ## GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=barash1311&show_icons=true&theme=vue&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
+<div align="center">
+  
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=barash1311&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/barash1311)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=barash1311&theme=vue&hide_border=true" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=barash1311&theme=tokyonight&hide_border=true)](https://github.com/barash1311)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barash1311&layout=compact&theme=vue&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=barash1311&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/barash1311)
+
+</div>
 
 ---
 
