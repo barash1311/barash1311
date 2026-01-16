@@ -118,12 +118,10 @@ Expected Graduation: 2026
 ## GitHub Activity
 
 <div align="center">
-<div>
 [![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=barash1311&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/barash1311)
-</div>
-  <div>
+
 [![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=barash1311&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/barash1311)
-  </div>
+ 
 </div>
 
 ---
