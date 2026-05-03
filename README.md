@@ -1,64 +1,45 @@
-<!-- github.com/barash1311 -->
+# Barash Sharma
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3FB950&width=500&lines=Hey+I'm+Barash+%F0%9F%91%8B;Backend+Engineer+%7C+CUSAT+'26;Building+systems+that+don't+break+at+3am" alt="Typing SVG" />
+Backend engineer · B.Tech CSE @ CUSAT, graduating 2026
 
----
-
-```
-barash@github:~$ whoami
-> backend engineer. spring boot, fastapi, node.js.
-> currently @ ylogx — cut deploy time from hours to <15 min.
-> cusat b.tech cse, graduating 2026.
-```
+I build APIs, backend systems, and infra that works in production.
+Currently interning at Ylogx · barash1311@gmail.com
 
 ---
 
-### stack
+## Experience
 
-**core:** java · python · typescript · javascript · sql  
-**backend:** spring boot · fastapi · node.js · rest · graphql · jwt  
-**data:** postgresql (postgis) · mongodb · redis  
-**infra:** aws (ec2, s3, rds) · docker · github actions · terraform  
-**patterns:** microservices · rbac · caching · performance optimization  
+**Ylogx Pvt. Ltd.** · Software Engineer Intern · Feb – Dec 2025
+JWT auth, RBAC, Redis caching, CI/CD on AWS. Cut release cycles from hours to under 15 min.
 
----
+**Indian Medical Association** · Backend Developer Intern · Aug 2023 – Aug 2024
+Healthcare APIs in Node.js. ML pipeline integration (+35% accuracy). Docker + AWS EC2.
 
-### experience
-
-```
-> ylogx pvt. ltd.                        feb 2025 – dec 2025
-  swe intern
-  jwt auth + rbac for 50+ employees. redis caching cut api response 30%.
-  ci/cd pipeline: half-day deploys → under 15 minutes.
-
-> ima (indian medical association)        aug 2023 – aug 2024
-  backend dev intern
-  healthcare apis in node.js. ml pipeline integration (+35% accuracy).
-  dockerized + deployed on aws ec2.
-
-> iit jammu tinkering lab                may 2023 – sep 2024
-  app dev intern
-  fastapi chatbot backend. normalized postgresql schema with partial indexes.
-```
+**IIT Jammu Tinkering Lab** · App Developer Intern · May 2023 – Sep 2024
+FastAPI chatbot backend, PostgreSQL schema with partial indexes, REST API for staff management.
 
 ---
 
-### projects
+## Projects
 
-**[geospatial flood analysis](https://github.com/yourusername/geospatial-flood-analysis)**  
-spring boot api · multi-agent ai pipeline · postgis + gist indexing (50%+ speedup)
+**[Geospatial Flood Analysis System](https://github.com/barash1311/)**
+Spring Boot REST API for flood risk prediction. Multi-agent AI pipeline. PostGIS + GiST indexing — 50%+ query speedup.
 
-**[fitnessx](https://github.com/barash1311/FitnessX)**  
-spring boot microservices · netflix eureka · spring cloud gateway
+**[FitnessX](https://github.com/barash1311/FitnessX)**
+Spring Boot microservices. Netflix Eureka service discovery. Spring Cloud API Gateway.
 
-**[vertease](https://github.com/barash1311/Vertease-Backend)**  
-fastapi · pydantic · docker · aws ec2 · firebase real-time sync
+**[VertEase](https://github.com/barash1311/Vertease-Backend)**
+FastAPI + Pydantic. Docker. AWS EC2. Firebase real-time sync.
 
 ---
 
-<p align="center">
-<a href="https://barash-sharma.vercel.app/">portfolio</a> ·
-<a href="https://www.linkedin.com/in/barash-sharma/">linkedin</a> ·
-<a href="https://leetcode.com/u/barash1311/">leetcode</a> ·
-<a href="mailto:barash1311@gmail.com">email</a>
-</p>
+## Stack
+
+**Languages** — Java, Python, TypeScript, JavaScript, SQL
+**Backend** — Spring Boot, FastAPI, Node.js, REST, GraphQL
+**Data** — PostgreSQL + PostGIS, MongoDB, Redis
+**Infra** — AWS (EC2, S3, RDS), Docker, GitHub Actions, Terraform
+
+---
+
+[Portfolio](https://barash-sharma.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/barash-sharma/) · [LeetCode](https://leetcode.com/u/barash1311/) · barash1311@gmail.com
